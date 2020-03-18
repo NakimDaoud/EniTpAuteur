@@ -1,0 +1,7 @@
+D:\TP\TPAuteur\TPAuteur\bin\Debug\TPAuteur.exe.config
+D:\TP\TPAuteur\TPAuteur\bin\Debug\TPAuteur.exe
+D:\TP\TPAuteur\TPAuteur\bin\Debug\TPAuteur.pdb
+D:\TP\TPAuteur\TPAuteur\obj\Debug\TPAuteur.csprojAssemblyReference.cache
+D:\TP\TPAuteur\TPAuteur\obj\Debug\TPAuteur.csproj.CoreCompileInputs.cache
+D:\TP\TPAuteur\TPAuteur\obj\Debug\TPAuteur.exe
+D:\TP\TPAuteur\TPAuteur\obj\Debug\TPAuteur.pdb
